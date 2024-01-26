@@ -1,0 +1,5000 @@
+pharynx cell type progenitors
+neoblast 1
+GABA neurons
+phagocytes
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+ChAT neurons 1
+muscle pharynx
+neoblast 1
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 6
+gut progenitors
+neoblast 6
+early epidermal progenitors
+early epidermal progenitors
+neoblast 10
+neoblast 1
+muscle body
+early epidermal progenitors
+neoblast 1
+psd+ cells
+neoblast 11
+neoblast 1
+neoblast 1
+ChAT neurons 1
+pigment
+neoblast 6
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+neoblast 9
+neoblast 1
+neural progenitors
+ChAT neurons 2
+ChAT neurons 2
+neoblast 13
+neural progenitors
+neoblast 10
+secretory 4
+early epidermal progenitors
+early epidermal progenitors
+neural progenitors
+pharynx cell type progenitors
+neural progenitors
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+muscle pharynx
+neoblast 6
+neoblast 6
+neoblast 13
+muscle body
+otf+ cells 1
+epidermal neoblasts
+neural progenitors
+muscle progenitors
+late epidermal progenitors 1
+neural progenitors
+cav-1+ neurons
+ChAT neurons 2
+neoblast 1
+psap+ parenchymal cells
+pigment
+early epidermal progenitors
+ChAT neurons 2
+neural progenitors
+neoblast 1
+neural progenitors
+early epidermal progenitors
+gut progenitors
+early epidermal progenitors
+early epidermal progenitors
+early epidermal progenitors
+neoblast 8
+phagocytes
+pgrn+ parenchymal cells
+muscle body
+neoblast 1
+early epidermal progenitors
+neoblast 6
+early epidermal progenitors
+secretory 2
+neoblast 1
+parenchymal progenitors
+early epidermal progenitors
+pharynx cell type progenitors
+late epidermal progenitors 1
+neoblast 1
+neural progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+muscle pharynx
+neoblast 5
+parenchymal progenitors
+psap+ parenchymal cells
+muscle pharynx
+neoblast 5
+parenchymal progenitors
+activated early epidermal progenitors
+secretory 1
+neoblast 1
+ChAT neurons 2
+aqp+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+neural progenitors
+neoblast 1
+aqp+ parenchymal cells
+early epidermal progenitors
+early epidermal progenitors
+early epidermal progenitors
+epidermis DVb neoblast
+psap+ parenchymal cells
+parenchymal progenitors
+parenchymal progenitors
+gut progenitors
+neoblast 1
+neoblast 10
+psap+ parenchymal cells
+neural progenitors
+epidermis
+neural progenitors
+neoblast 1
+neoblast 6
+epidermal neoblasts
+GABA neurons
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+pigment
+secretory 4
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+gut progenitors
+neural progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+neural progenitors
+muscle body
+pigment
+neural progenitors
+pgrn+ parenchymal cells
+GABA neurons
+psap+ parenchymal cells
+GABA neurons
+neoblast 5
+secretory 2
+cav-1+ neurons
+muscle body
+ChAT neurons 2
+neural progenitors
+late epidermal progenitors 1
+neoblast 1
+gut progenitors
+neoblast 6
+cav-1+ neurons
+ldlrr-1+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+psap+ parenchymal cells
+phagocytes
+pgrn+ parenchymal cells
+muscle body
+late epidermal progenitors 1
+muscle progenitors
+GABA neurons
+neural progenitors
+psd+ cells
+aqp+ parenchymal cells
+neoblast 1
+muscle progenitors
+epidermis
+parenchymal progenitors
+neoblast 1
+neoblast 1
+neural progenitors
+otf+ cells 1
+early epidermal progenitors
+early epidermal progenitors
+epidermal neoblasts
+aqp+ parenchymal cells
+secretory 4
+ChAT neurons 1
+neoblast 11
+neoblast 2
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+muscle body
+pigment
+pharynx cell type progenitors
+early epidermal progenitors
+parenchymal progenitors
+neural progenitors
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+parenchymal progenitors
+neoblast 1
+early epidermal progenitors
+gut progenitors
+epidermis DVb
+pigment
+neural progenitors
+neoblast 1
+neoblast 6
+early epidermal progenitors
+psap+ parenchymal cells
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+pigment
+muscle progenitors
+aqp+ parenchymal cells
+muscle body
+GABA neurons
+neoblast 1
+neoblast 3
+neoblast 11
+neoblast 1
+psd+ cells
+neural progenitors
+early epidermal progenitors
+early epidermal progenitors
+pharynx cell type
+neoblast 9
+neoblast 13
+ChAT neurons 1
+late epidermal progenitors 1
+early epidermal progenitors
+neoblast 1
+ChAT neurons 1
+neoblast 1
+gut progenitors
+muscle body
+pharynx cell type progenitors
+neoblast 1
+epidermis DVb neoblast
+muscle body
+secretory 3
+parenchymal progenitors
+gut progenitors
+epidermis
+neoblast 3
+muscle pharynx
+neoblast 1
+neoblast 1
+neoblast 7
+early epidermal progenitors
+neoblast 6
+late epidermal progenitors 1
+neoblast 6
+ChAT neurons 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 13
+ChAT neurons 1
+ChAT neurons 1
+neoblast 1
+gut progenitors
+epidermal neoblasts
+neoblast 1
+secretory 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+late epidermal progenitors 2
+psd+ cells
+glia
+gut progenitors
+muscle body
+late epidermal progenitors 1
+parenchymal progenitors
+neural progenitors
+parenchymal progenitors
+ChAT neurons 1
+neoblast 1
+muscle progenitors
+gut progenitors
+gut progenitors
+ChAT neurons 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+ChAT neurons 1
+ChAT neurons 2
+neoblast 1
+neoblast 1
+neoblast 1
+secretory 4
+psap+ parenchymal cells
+late epidermal progenitors 2
+GABA neurons
+epidermis DVb neoblast
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+neoblast 12
+neoblast 1
+neoblast 1
+gut progenitors
+neoblast 1
+neoblast 1
+neoblast 3
+neoblast 1
+neoblast 11
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+epidermis
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+psap+ parenchymal cells
+epidermis
+muscle body
+epidermis
+parenchymal progenitors
+neoblast 1
+epidermis DVb neoblast
+late epidermal progenitors 1
+neoblast 1
+neoblast 1
+neoblast 1
+activated early epidermal progenitors
+parenchymal progenitors
+ChAT neurons 1
+parenchymal progenitors
+psap+ parenchymal cells
+parenchymal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+psd+ cells
+ChAT neurons 2
+protonephridia
+ChAT neurons 1
+early epidermal progenitors
+psap+ parenchymal cells
+otf+ cells 1
+neoblast 5
+neoblast 1
+muscle body
+neoblast 11
+neoblast 1
+ChAT neurons 2
+psap+ parenchymal cells
+neoblast 5
+gut progenitors
+secretory 1
+pharynx cell type
+early epidermal progenitors
+neoblast 1
+GABA neurons
+late epidermal progenitors 2
+early epidermal progenitors
+pharynx cell type
+secretory 1
+neural progenitors
+ChAT neurons 2
+otf+ cells 1
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 5
+neoblast 1
+pgrn+ parenchymal cells
+early epidermal progenitors
+psap+ parenchymal cells
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 6
+neoblast 1
+epidermal neoblasts
+muscle body
+ChAT neurons 1
+ldlrr-1+ parenchymal cells
+neural progenitors
+pharynx cell type progenitors
+neoblast 1
+muscle progenitors
+ChAT neurons 1
+neoblast 1
+ChAT neurons 1
+pgrn+ parenchymal cells
+neoblast 1
+gut progenitors
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neural progenitors
+neoblast 1
+secretory 3
+early epidermal progenitors
+ChAT neurons 1
+neoblast 1
+neoblast 1
+neoblast 11
+muscle body
+pharynx cell type
+early epidermal progenitors
+epidermis
+early epidermal progenitors
+muscle body
+muscle body
+neoblast 1
+epidermal neoblasts
+neural progenitors
+muscle body
+epidermal neoblasts
+gut progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 5
+neoblast 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+neoblast 1
+ldlrr-1+ parenchymal cells
+neoblast 11
+secretory 1
+GABA neurons
+muscle pharynx
+muscle body
+muscle body
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neural progenitors
+neoblast 1
+pigment
+early epidermal progenitors
+epidermal neoblasts
+early epidermal progenitors
+neoblast 1
+muscle pharynx
+neoblast 1
+early epidermal progenitors
+ChAT neurons 1
+ChAT neurons 2
+muscle body
+neoblast 1
+early epidermal progenitors
+psap+ parenchymal cells
+neoblast 1
+muscle progenitors
+neoblast 1
+parenchymal progenitors
+pgrn+ parenchymal cells
+early epidermal progenitors
+late epidermal progenitors 2
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+muscle body
+GABA neurons
+neoblast 1
+phagocytes
+pharynx cell type
+neoblast 6
+neoblast 1
+neoblast 1
+secretory 4
+neoblast 1
+neural progenitors
+neoblast 6
+neoblast 1
+late epidermal progenitors 1
+neoblast 1
+epidermis DVb neoblast
+late epidermal progenitors 1
+neoblast 9
+psd+ cells
+early epidermal progenitors
+pharynx cell type progenitors
+muscle body
+early epidermal progenitors
+neoblast 1
+epidermal neoblasts
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+neoblast 1
+neoblast 1
+neoblast 12
+ldlrr-1+ parenchymal cells
+early epidermal progenitors
+neural progenitors
+neoblast 1
+neural progenitors
+neoblast 1
+muscle progenitors
+ChAT neurons 1
+neoblast 1
+neoblast 1
+pigment
+early epidermal progenitors
+neoblast 8
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+goblet cells
+parenchymal progenitors
+early epidermal progenitors
+phagocytes
+aqp+ parenchymal cells
+early epidermal progenitors
+secretory 1
+aqp+ parenchymal cells
+early epidermal progenitors
+muscle body
+neural progenitors
+parenchymal progenitors
+neural progenitors
+early epidermal progenitors
+neoblast 1
+cav-1+ neurons
+neural progenitors
+muscle progenitors
+aqp+ parenchymal cells
+neoblast 1
+secretory 1
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+GABA neurons
+neoblast 10
+neoblast 1
+otf+ cells 1
+neoblast 1
+neoblast 1
+neoblast 1
+phagocytes
+early epidermal progenitors
+epidermis DVb neoblast
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+neoblast 6
+early epidermal progenitors
+early epidermal progenitors
+gut progenitors
+npp-18+ neurons
+neoblast 1
+secretory 1
+psap+ parenchymal cells
+muscle progenitors
+neoblast 10
+parenchymal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+muscle body
+npp-18+ neurons
+early epidermal progenitors
+neoblast 6
+early epidermal progenitors
+muscle body
+neoblast 10
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+neoblast 6
+pharynx cell type
+neoblast 6
+neoblast 8
+neoblast 1
+gut progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 10
+ChAT neurons 1
+muscle pharynx
+secretory 1
+otf+ cells 1
+neoblast 1
+neural progenitors
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+protonephridia
+neoblast 1
+phagocytes
+early epidermal progenitors
+ChAT neurons 2
+neoblast 11
+early epidermal progenitors
+neoblast 1
+parenchymal progenitors
+ChAT neurons 1
+pharynx cell type progenitors
+phagocytes
+neoblast 1
+GABA neurons
+neoblast 6
+neoblast 1
+neoblast 1
+ChAT neurons 2
+early epidermal progenitors
+ChAT neurons 1
+neoblast 6
+neoblast 1
+ldlrr-1+ parenchymal cells
+neoblast 1
+neoblast 1
+epidermis
+psap+ parenchymal cells
+muscle progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+cav-1+ neurons
+neural progenitors
+secretory 4
+neoblast 1
+neoblast 1
+pharynx cell type progenitors
+parenchymal progenitors
+early epidermal progenitors
+GABA neurons
+neoblast 6
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+epidermal neoblasts
+early epidermal progenitors
+ChAT neurons 2
+neoblast 1
+neural progenitors
+ldlrr-1+ parenchymal cells
+neoblast 1
+pigment
+muscle progenitors
+neural progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+phagocytes
+neoblast 1
+neoblast 1
+secretory 4
+neoblast 11
+neoblast 1
+muscle body
+neoblast 1
+activated early epidermal progenitors
+muscle progenitors
+muscle body
+psap+ parenchymal cells
+neoblast 1
+ldlrr-1+ parenchymal cells
+neoblast 5
+early epidermal progenitors
+pharynx cell type progenitors
+pgrn+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+epidermis
+psd+ cells
+ldlrr-1+ parenchymal cells
+early epidermal progenitors
+muscle body
+phagocytes
+neoblast 10
+neural progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+GABA neurons
+neoblast 1
+muscle pharynx
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 1
+muscle body
+muscle body
+psap+ parenchymal cells
+neoblast 1
+late epidermal progenitors 1
+ldlrr-1+ parenchymal cells
+secretory 4
+muscle body
+parenchymal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+late epidermal progenitors 1
+aqp+ parenchymal cells
+parenchymal progenitors
+muscle pharynx
+neural progenitors
+gut progenitors
+muscle progenitors
+ChAT neurons 1
+neoblast 1
+neoblast 4
+parenchymal progenitors
+early epidermal progenitors
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+muscle pharynx
+early epidermal progenitors
+otf+ cells 1
+neoblast 1
+neoblast 1
+ChAT neurons 2
+early epidermal progenitors
+phagocytes
+neoblast 1
+psap+ parenchymal cells
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+neoblast 11
+psap+ parenchymal cells
+early epidermal progenitors
+GABA neurons
+pgrn+ parenchymal cells
+ChAT neurons 1
+epidermis
+gut progenitors
+neoblast 3
+muscle body
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 6
+late epidermal progenitors 1
+epidermis DVb neoblast
+neural progenitors
+neoblast 13
+otf+ cells 1
+early epidermal progenitors
+muscle body
+phagocytes
+neoblast 5
+early epidermal progenitors
+early epidermal progenitors
+muscle body
+neoblast 10
+neoblast 1
+neoblast 5
+neoblast 5
+parenchymal progenitors
+otf+ cells 2
+psap+ parenchymal cells
+ChAT neurons 1
+psap+ parenchymal cells
+neoblast 8
+early epidermal progenitors
+early epidermal progenitors
+gut progenitors
+neoblast 1
+neoblast 1
+neoblast 6
+neoblast 1
+psap+ parenchymal cells
+neural progenitors
+late epidermal progenitors 1
+neoblast 1
+secretory 1
+early epidermal progenitors
+muscle body
+psd+ cells
+neoblast 5
+neoblast 1
+ChAT neurons 1
+neoblast 1
+neoblast 1
+neural progenitors
+early epidermal progenitors
+epidermis DVb
+late epidermal progenitors 1
+neoblast 3
+neoblast 1
+neoblast 1
+secretory 1
+phagocytes
+neoblast 1
+phagocytes
+early epidermal progenitors
+neural progenitors
+muscle pharynx
+neoblast 1
+pigment
+muscle progenitors
+phagocytes
+neoblast 1
+gut progenitors
+neoblast 9
+neoblast 10
+epidermis
+psap+ parenchymal cells
+epidermis
+neoblast 1
+ChAT neurons 2
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+gut progenitors
+epidermis DVb
+early epidermal progenitors
+neoblast 1
+neural progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+secretory 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+goblet cells
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+parenchymal progenitors
+secretory 4
+neoblast 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+pgrn+ parenchymal cells
+parenchymal progenitors
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+epidermis DVb neoblast
+neoblast 9
+neural progenitors
+neoblast 6
+psap+ parenchymal cells
+parenchymal progenitors
+muscle body
+late epidermal progenitors 1
+cav-1+ neurons
+muscle pharynx
+pgrn+ parenchymal cells
+gut progenitors
+neoblast 1
+neural progenitors
+neural progenitors
+neoblast 1
+pigment
+GABA neurons
+neoblast 1
+muscle progenitors
+early epidermal progenitors
+neoblast 1
+muscle body
+ldlrr-1+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+neoblast 1
+psap+ parenchymal cells
+neural progenitors
+ChAT neurons 2
+early epidermal progenitors
+epidermal neoblasts
+neoblast 1
+neoblast 1
+otf+ cells 1
+pharynx cell type
+parenchymal progenitors
+ldlrr-1+ parenchymal cells
+neural progenitors
+muscle progenitors
+neoblast 1
+ldlrr-1+ parenchymal cells
+muscle body
+early epidermal progenitors
+parenchymal progenitors
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+GABA neurons
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+ChAT neurons 2
+neoblast 1
+parenchymal progenitors
+neoblast 1
+early epidermal progenitors
+pigment
+neoblast 1
+muscle body
+neoblast 2
+late epidermal progenitors 1
+secretory 4
+protonephridia
+neoblast 1
+neoblast 1
+neoblast 1
+ChAT neurons 1
+neoblast 1
+neoblast 1
+epidermis
+neoblast 1
+late epidermal progenitors 2
+pharynx cell type
+epidermis
+neoblast 1
+neoblast 6
+neoblast 5
+neoblast 6
+neoblast 1
+neoblast 6
+ldlrr-1+ parenchymal cells
+parenchymal progenitors
+late epidermal progenitors 1
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+muscle body
+neural progenitors
+late epidermal progenitors 2
+psap+ parenchymal cells
+neoblast 6
+early epidermal progenitors
+epidermal neoblasts
+neural progenitors
+neoblast 11
+neoblast 1
+neoblast 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+pigment
+muscle body
+aqp+ parenchymal cells
+neoblast 11
+ChAT neurons 1
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+GABA neurons
+muscle progenitors
+muscle body
+neural progenitors
+muscle body
+early epidermal progenitors
+aqp+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+epidermis
+muscle body
+psap+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 11
+pgrn+ parenchymal cells
+npp-18+ neurons
+neural progenitors
+neoblast 13
+neoblast 1
+epidermis DVb neoblast
+neoblast 1
+spp-11+ neurons
+late epidermal progenitors 1
+psap+ parenchymal cells
+otf+ cells 1
+epidermis DVb neoblast
+neoblast 10
+neoblast 1
+neural progenitors
+pigment
+neoblast 3
+glia
+neoblast 1
+gut progenitors
+neoblast 1
+neoblast 1
+otf+ cells 1
+neoblast 1
+early epidermal progenitors
+neural progenitors
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 11
+neoblast 1
+ChAT neurons 1
+cav-1+ neurons
+muscle progenitors
+neoblast 1
+neoblast 1
+gut progenitors
+psap+ parenchymal cells
+psap+ parenchymal cells
+neoblast 5
+otf+ cells 1
+neoblast 1
+neoblast 1
+pharynx cell type
+parenchymal progenitors
+psd+ cells
+pigment
+neoblast 1
+neoblast 6
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+muscle progenitors
+neoblast 1
+late epidermal progenitors 1
+otf+ cells 2
+parenchymal progenitors
+muscle body
+muscle body
+psap+ parenchymal cells
+gut progenitors
+early epidermal progenitors
+neoblast 9
+neoblast 1
+neoblast 1
+neural progenitors
+aqp+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+GABA neurons
+epidermal neoblasts
+neoblast 1
+pigment
+early epidermal progenitors
+early epidermal progenitors
+neoblast 12
+early epidermal progenitors
+neoblast 4
+muscle body
+neural progenitors
+neoblast 13
+neoblast 1
+muscle body
+psap+ parenchymal cells
+neoblast 6
+muscle body
+neoblast 1
+early epidermal progenitors
+pigment
+neoblast 5
+neoblast 1
+muscle body
+psd+ cells
+early epidermal progenitors
+late epidermal progenitors 1
+neoblast 1
+phagocytes
+GABA neurons
+phagocytes
+neoblast 1
+neoblast 1
+neoblast 13
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 12
+neoblast 1
+pharynx cell type progenitors
+neoblast 6
+neoblast 1
+parenchymal progenitors
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+parenchymal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+muscle body
+pigment
+neoblast 1
+neoblast 1
+neoblast 13
+neoblast 1
+late epidermal progenitors 2
+secretory 1
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 1
+muscle progenitors
+muscle progenitors
+epidermis
+neoblast 1
+early epidermal progenitors
+late epidermal progenitors 1
+phagocytes
+neoblast 1
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+epidermal neoblasts
+aqp+ parenchymal cells
+neoblast 1
+psd+ cells
+neoblast 6
+parenchymal progenitors
+muscle body
+early epidermal progenitors
+neoblast 1
+npp-18+ neurons
+early epidermal progenitors
+ChAT neurons 2
+muscle progenitors
+early epidermal progenitors
+early epidermal progenitors
+epidermis
+epidermis DVb neoblast
+neural progenitors
+psd+ cells
+neoblast 1
+phagocytes
+ChAT neurons 2
+early epidermal progenitors
+ChAT neurons 1
+ChAT neurons 2
+neural progenitors
+neoblast 1
+neoblast 6
+pgrn+ parenchymal cells
+neoblast 1
+GABA neurons
+neoblast 1
+aqp+ parenchymal cells
+late epidermal progenitors 1
+epidermis DVb
+neoblast 1
+phagocytes
+psap+ parenchymal cells
+neoblast 5
+neoblast 1
+gut progenitors
+neoblast 4
+pigment
+neural progenitors
+neoblast 1
+neoblast 1
+muscle body
+psd+ cells
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 2
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+muscle body
+neoblast 10
+psap+ parenchymal cells
+neoblast 3
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neural progenitors
+neoblast 13
+early epidermal progenitors
+neoblast 1
+neural progenitors
+neural progenitors
+epidermal neoblasts
+psap+ parenchymal cells
+secretory 4
+ldlrr-1+ parenchymal cells
+neoblast 1
+neoblast 3
+neoblast 5
+protonephridia
+neoblast 6
+muscle body
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+protonephridia
+neural progenitors
+neural progenitors
+ldlrr-1+ parenchymal cells
+pgrn+ parenchymal cells
+gut progenitors
+neural progenitors
+neural progenitors
+neoblast 1
+early epidermal progenitors
+secretory 4
+early epidermal progenitors
+neoblast 11
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 2
+neoblast 1
+early epidermal progenitors
+ChAT neurons 2
+pgrn+ parenchymal cells
+neoblast 11
+pharynx cell type progenitors
+protonephridia
+phagocytes
+muscle body
+psap+ parenchymal cells
+neoblast 1
+pigment
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle progenitors
+neoblast 11
+muscle body
+pharynx cell type progenitors
+neoblast 1
+neoblast 10
+ChAT neurons 2
+neoblast 1
+epidermis DVb neoblast
+epidermis
+aqp+ parenchymal cells
+neoblast 1
+ChAT neurons 2
+neoblast 1
+neural progenitors
+neoblast 1
+late epidermal progenitors 2
+late epidermal progenitors 1
+ldlrr-1+ parenchymal cells
+muscle body
+phagocytes
+neoblast 1
+neural progenitors
+muscle progenitors
+psap+ parenchymal cells
+neoblast 1
+muscle pharynx
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+muscle pharynx
+parenchymal progenitors
+late epidermal progenitors 2
+muscle progenitors
+neural progenitors
+pigment
+neoblast 1
+neoblast 1
+muscle body
+epidermal neoblasts
+late epidermal progenitors 1
+neoblast 1
+muscle body
+neoblast 1
+aqp+ parenchymal cells
+neural progenitors
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+phagocytes
+neural progenitors
+pharynx cell type progenitors
+early epidermal progenitors
+parenchymal progenitors
+ChAT neurons 2
+neoblast 1
+neoblast 1
+neoblast 3
+early epidermal progenitors
+muscle body
+neoblast 1
+neural progenitors
+early epidermal progenitors
+neural progenitors
+neural progenitors
+neoblast 1
+muscle body
+muscle body
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+npp-18+ neurons
+pigment
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 9
+muscle body
+psap+ parenchymal cells
+ldlrr-1+ parenchymal cells
+gut progenitors
+npp-18+ neurons
+late epidermal progenitors 1
+neoblast 6
+neoblast 1
+ChAT neurons 2
+neoblast 9
+muscle pharynx
+neoblast 1
+ChAT neurons 1
+phagocytes
+neoblast 1
+muscle progenitors
+early epidermal progenitors
+neoblast 1
+aqp+ parenchymal cells
+early epidermal progenitors
+early epidermal progenitors
+pigment
+early epidermal progenitors
+gut progenitors
+ChAT neurons 1
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+parenchymal progenitors
+parenchymal progenitors
+early epidermal progenitors
+neoblast 7
+GABA neurons
+neural progenitors
+ChAT neurons 2
+early epidermal progenitors
+parenchymal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neural progenitors
+muscle body
+neoblast 1
+gut progenitors
+muscle progenitors
+ChAT neurons 1
+psd+ cells
+muscle body
+neoblast 1
+early epidermal progenitors
+neoblast 6
+neoblast 1
+neoblast 1
+GABA neurons
+early epidermal progenitors
+muscle body
+aqp+ parenchymal cells
+pigment
+pgrn+ parenchymal cells
+ChAT neurons 2
+neural progenitors
+neoblast 1
+muscle body
+neoblast 1
+secretory 4
+muscle progenitors
+secretory 4
+gut progenitors
+neural progenitors
+epidermis DVb
+neoblast 1
+muscle body
+pgrn+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+muscle body
+neoblast 11
+early epidermal progenitors
+muscle body
+muscle body
+neoblast 1
+muscle body
+neoblast 1
+ChAT neurons 1
+muscle body
+neoblast 5
+gut progenitors
+psd+ cells
+muscle pharynx
+neoblast 1
+early epidermal progenitors
+neoblast 5
+early epidermal progenitors
+muscle body
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+cav-1+ neurons
+pharynx cell type
+neoblast 11
+muscle pharynx
+early epidermal progenitors
+neoblast 1
+muscle body
+neural progenitors
+secretory 1
+neoblast 11
+muscle body
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+epidermis
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 6
+late epidermal progenitors 2
+neoblast 1
+ldlrr-1+ parenchymal cells
+neoblast 1
+phagocytes
+neoblast 2
+neoblast 1
+neoblast 1
+ChAT neurons 2
+pigment
+neoblast 1
+secretory 1
+parenchymal progenitors
+muscle body
+pharynx cell type progenitors
+early epidermal progenitors
+parenchymal progenitors
+neoblast 6
+phagocytes
+neoblast 1
+activated early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 6
+neoblast 1
+muscle body
+early epidermal progenitors
+muscle body
+parenchymal progenitors
+epidermis DVb neoblast
+neoblast 1
+epidermis DVb
+early epidermal progenitors
+neoblast 1
+ldlrr-1+ parenchymal cells
+psap+ parenchymal cells
+early epidermal progenitors
+neoblast 10
+early epidermal progenitors
+psap+ parenchymal cells
+muscle body
+ChAT neurons 1
+ChAT neurons 1
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+pigment
+neoblast 6
+early epidermal progenitors
+neoblast 1
+epidermis
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 11
+neoblast 5
+neoblast 1
+muscle body
+early epidermal progenitors
+neural progenitors
+epidermal neoblasts
+ChAT neurons 2
+neoblast 1
+otf+ cells 2
+neoblast 1
+muscle pharynx
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+muscle body
+ChAT neurons 2
+neural progenitors
+psap+ parenchymal cells
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+muscle progenitors
+early epidermal progenitors
+late epidermal progenitors 2
+late epidermal progenitors 1
+muscle body
+neoblast 1
+neoblast 1
+muscle body
+pigment
+neoblast 1
+neoblast 1
+GABA neurons
+ChAT neurons 1
+early epidermal progenitors
+secretory 4
+neoblast 1
+early epidermal progenitors
+pharynx cell type progenitors
+neural progenitors
+aqp+ parenchymal cells
+ChAT neurons 1
+neoblast 1
+epidermis
+neoblast 3
+neoblast 1
+parenchymal progenitors
+pharynx cell type progenitors
+ChAT neurons 1
+early epidermal progenitors
+neural progenitors
+muscle progenitors
+early epidermal progenitors
+pharynx cell type progenitors
+parenchymal progenitors
+neoblast 1
+neoblast 5
+early epidermal progenitors
+GABA neurons
+late epidermal progenitors 1
+neoblast 1
+neoblast 1
+cav-1+ neurons
+late epidermal progenitors 1
+neoblast 13
+npp-18+ neurons
+parenchymal progenitors
+neoblast 1
+aqp+ parenchymal cells
+neoblast 1
+neoblast 1
+epidermal neoblasts
+early epidermal progenitors
+late epidermal progenitors 2
+muscle pharynx
+neoblast 1
+aqp+ parenchymal cells
+muscle pharynx
+aqp+ parenchymal cells
+aqp+ parenchymal cells
+muscle body
+neoblast 6
+neoblast 1
+pigment
+neoblast 9
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+otf+ cells 1
+neoblast 1
+neoblast 11
+neoblast 10
+late epidermal progenitors 1
+early epidermal progenitors
+pgrn+ parenchymal cells
+early epidermal progenitors
+parenchymal progenitors
+gut progenitors
+late epidermal progenitors 1
+gut progenitors
+muscle body
+late epidermal progenitors 1
+pharynx cell type progenitors
+otf+ cells 1
+neural progenitors
+muscle body
+ChAT neurons 1
+early epidermal progenitors
+epidermis DVb neoblast
+neoblast 1
+late epidermal progenitors 1
+psap+ parenchymal cells
+early epidermal progenitors
+muscle body
+muscle body
+parenchymal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+neoblast 5
+neoblast 1
+neoblast 1
+muscle body
+secretory 1
+muscle body
+neoblast 1
+early epidermal progenitors
+secretory 1
+neoblast 7
+pigment
+neoblast 1
+epidermis DVb
+early epidermal progenitors
+neoblast 1
+parenchymal progenitors
+early epidermal progenitors
+late epidermal progenitors 1
+neoblast 1
+neural progenitors
+pigment
+psap+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+neural progenitors
+ChAT neurons 1
+pharynx cell type progenitors
+parenchymal progenitors
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 6
+neoblast 11
+neoblast 9
+neoblast 1
+otf+ cells 2
+cav-1+ neurons
+neoblast 1
+neoblast 1
+neoblast 1
+neural progenitors
+muscle progenitors
+early epidermal progenitors
+cav-1+ neurons
+parenchymal progenitors
+neoblast 1
+neoblast 13
+ChAT neurons 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 4
+epidermal neoblasts
+neoblast 1
+neoblast 1
+neoblast 6
+neural progenitors
+muscle progenitors
+epidermal neoblasts
+early epidermal progenitors
+early epidermal progenitors
+muscle body
+late epidermal progenitors 1
+muscle body
+ChAT neurons 1
+muscle progenitors
+pigment
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+pharynx cell type progenitors
+neoblast 1
+neoblast 1
+epidermis
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+gut progenitors
+early epidermal progenitors
+parenchymal progenitors
+aqp+ parenchymal cells
+neoblast 1
+parenchymal progenitors
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 6
+ldlrr-1+ parenchymal cells
+aqp+ parenchymal cells
+neoblast 1
+muscle body
+psd+ cells
+ChAT neurons 1
+neoblast 1
+parenchymal progenitors
+neoblast 6
+neoblast 4
+neoblast 1
+epidermis DVb neoblast
+muscle body
+parenchymal progenitors
+pgrn+ parenchymal cells
+neoblast 5
+aqp+ parenchymal cells
+neural progenitors
+neoblast 1
+early epidermal progenitors
+epidermis DVb neoblast
+neoblast 6
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+psap+ parenchymal cells
+psd+ cells
+ChAT neurons 1
+neoblast 9
+secretory 4
+neoblast 1
+gut progenitors
+neoblast 1
+epidermis
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+ChAT neurons 1
+neoblast 9
+aqp+ parenchymal cells
+pigment
+neoblast 1
+secretory 1
+gut progenitors
+ChAT neurons 1
+muscle body
+ldlrr-1+ parenchymal cells
+early epidermal progenitors
+ChAT neurons 1
+neoblast 1
+neoblast 6
+neoblast 1
+neoblast 6
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 5
+psap+ parenchymal cells
+parenchymal progenitors
+epidermal neoblasts
+neoblast 1
+neural progenitors
+neoblast 1
+muscle body
+GABA neurons
+early epidermal progenitors
+epidermis DVb
+neoblast 4
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+muscle pharynx
+neoblast 1
+neoblast 5
+muscle body
+neoblast 1
+neoblast 1
+epidermis DVb neoblast
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+epidermis DVb neoblast
+neoblast 1
+phagocytes
+epidermal neoblasts
+neoblast 1
+neoblast 5
+early epidermal progenitors
+muscle body
+secretory 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+neural progenitors
+aqp+ parenchymal cells
+npp-18+ neurons
+muscle body
+gut progenitors
+muscle progenitors
+otf+ cells 2
+epidermis
+ChAT neurons 1
+psap+ parenchymal cells
+neural progenitors
+epidermis
+neoblast 6
+neoblast 1
+muscle body
+early epidermal progenitors
+ChAT neurons 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+epidermis DVb neoblast
+neoblast 1
+early epidermal progenitors
+neoblast 5
+psd+ cells
+neoblast 1
+neoblast 1
+neoblast 3
+neoblast 1
+early epidermal progenitors
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 9
+neoblast 1
+neoblast 6
+muscle pharynx
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+muscle body
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neural progenitors
+parenchymal progenitors
+gut progenitors
+epidermis
+neoblast 1
+epidermis
+epidermal neoblasts
+neoblast 1
+GABA neurons
+aqp+ parenchymal cells
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 3
+epidermis
+neoblast 12
+pgrn+ parenchymal cells
+neoblast 1
+muscle pharynx
+GABA neurons
+otf+ cells 2
+epidermal neoblasts
+secretory 4
+neoblast 1
+parenchymal progenitors
+psd+ cells
+neoblast 1
+muscle body
+early epidermal progenitors
+neural progenitors
+pgrn+ parenchymal cells
+goblet cells
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 1
+pigment
+aqp+ parenchymal cells
+epidermal neoblasts
+epidermal neoblasts
+neoblast 6
+neoblast 1
+epidermal neoblasts
+parenchymal progenitors
+neoblast 1
+psap+ parenchymal cells
+psap+ parenchymal cells
+neural progenitors
+muscle body
+neural progenitors
+neoblast 1
+early epidermal progenitors
+pigment
+neoblast 4
+ChAT neurons 1
+pigment
+neoblast 1
+ldlrr-1+ parenchymal cells
+protonephridia
+neoblast 1
+muscle body
+early epidermal progenitors
+neoblast 1
+muscle body
+neoblast 1
+early epidermal progenitors
+neoblast 1
+muscle body
+neoblast 13
+early epidermal progenitors
+pigment
+muscle progenitors
+ChAT neurons 2
+muscle body
+muscle body
+neoblast 1
+epidermis DVb
+muscle body
+parenchymal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 11
+neural progenitors
+otf+ cells 2
+neoblast 1
+muscle progenitors
+late epidermal progenitors 1
+neoblast 6
+neoblast 1
+neoblast 1
+neoblast 1
+psd+ cells
+early epidermal progenitors
+neoblast 1
+parenchymal progenitors
+muscle progenitors
+secretory 4
+neoblast 1
+neoblast 1
+epidermis
+neoblast 1
+muscle progenitors
+muscle body
+early epidermal progenitors
+neural progenitors
+neural progenitors
+early epidermal progenitors
+muscle body
+neoblast 1
+neoblast 1
+neural progenitors
+neoblast 1
+late epidermal progenitors 2
+muscle progenitors
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+GABA neurons
+neoblast 1
+early epidermal progenitors
+neoblast 1
+secretory 1
+neoblast 6
+muscle pharynx
+protonephridia
+neoblast 10
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+otf+ cells 1
+pharynx cell type
+pharynx cell type progenitors
+neoblast 1
+neoblast 11
+muscle pharynx
+early epidermal progenitors
+neoblast 1
+muscle body
+early epidermal progenitors
+pgrn+ parenchymal cells
+ChAT neurons 2
+ChAT neurons 1
+glia
+neoblast 1
+early epidermal progenitors
+aqp+ parenchymal cells
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+epidermal neoblasts
+early epidermal progenitors
+psap+ parenchymal cells
+neural progenitors
+muscle body
+psap+ parenchymal cells
+aqp+ parenchymal cells
+neoblast 1
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+psap+ parenchymal cells
+ChAT neurons 2
+neoblast 1
+goblet cells
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+secretory 4
+neoblast 1
+muscle pharynx
+neoblast 1
+early epidermal progenitors
+aqp+ parenchymal cells
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+late epidermal progenitors 2
+pharynx cell type progenitors
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+neural progenitors
+gut progenitors
+pharynx cell type progenitors
+neoblast 1
+neoblast 1
+muscle body
+gut progenitors
+aqp+ parenchymal cells
+early epidermal progenitors
+psap+ parenchymal cells
+neural progenitors
+psd+ cells
+neoblast 1
+ChAT neurons 2
+early epidermal progenitors
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 6
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 5
+neoblast 1
+neoblast 1
+secretory 2
+neural progenitors
+neoblast 9
+ChAT neurons 1
+neural progenitors
+neoblast 1
+late epidermal progenitors 2
+muscle body
+neural progenitors
+muscle progenitors
+muscle progenitors
+neoblast 12
+muscle body
+muscle progenitors
+ChAT neurons 2
+muscle progenitors
+neoblast 1
+pharynx cell type progenitors
+cav-1+ neurons
+secretory 4
+pgrn+ parenchymal cells
+late epidermal progenitors 1
+early epidermal progenitors
+neoblast 1
+neoblast 11
+late epidermal progenitors 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+spp-11+ neurons
+early epidermal progenitors
+psap+ parenchymal cells
+neural progenitors
+muscle body
+muscle progenitors
+neoblast 9
+neoblast 1
+muscle body
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+early epidermal progenitors
+neoblast 6
+neoblast 10
+psap+ parenchymal cells
+neoblast 1
+neural progenitors
+neoblast 1
+early epidermal progenitors
+late epidermal progenitors 2
+neural progenitors
+neoblast 1
+muscle body
+epidermis
+neoblast 1
+parenchymal progenitors
+epidermis DVb neoblast
+pgrn+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+neural progenitors
+late epidermal progenitors 2
+neoblast 9
+neoblast 1
+muscle body
+muscle body
+neural progenitors
+muscle progenitors
+ldlrr-1+ parenchymal cells
+muscle pharynx
+neural progenitors
+neoblast 1
+muscle pharynx
+late epidermal progenitors 2
+pharynx cell type
+neoblast 1
+pharynx cell type progenitors
+neural progenitors
+neoblast 5
+neural progenitors
+secretory 1
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+GABA neurons
+neoblast 1
+muscle progenitors
+late epidermal progenitors 2
+early epidermal progenitors
+neoblast 1
+phagocytes
+parenchymal progenitors
+neural progenitors
+neoblast 1
+cav-1+ neurons
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle progenitors
+neoblast 1
+npp-18+ neurons
+GABA neurons
+neoblast 1
+neoblast 1
+neoblast 6
+neoblast 1
+neoblast 9
+early epidermal progenitors
+psd+ cells
+late epidermal progenitors 2
+neoblast 13
+neural progenitors
+pharynx cell type progenitors
+early epidermal progenitors
+psd+ cells
+pharynx cell type progenitors
+secretory 4
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+early epidermal progenitors
+neoblast 1
+phagocytes
+early epidermal progenitors
+neoblast 1
+late epidermal progenitors 2
+muscle progenitors
+neoblast 1
+ldlrr-1+ parenchymal cells
+neural progenitors
+neoblast 1
+late epidermal progenitors 2
+ChAT neurons 2
+late epidermal progenitors 2
+muscle body
+early epidermal progenitors
+aqp+ parenchymal cells
+muscle body
+neoblast 5
+epidermal neoblasts
+protonephridia
+early epidermal progenitors
+muscle progenitors
+neural progenitors
+ChAT neurons 1
+muscle body
+psap+ parenchymal cells
+epidermal neoblasts
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 6
+neoblast 1
+psap+ parenchymal cells
+early epidermal progenitors
+early epidermal progenitors
+muscle progenitors
+parenchymal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 4
+neoblast 9
+neural progenitors
+early epidermal progenitors
+neoblast 1
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+pharynx cell type
+muscle body
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 9
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+late epidermal progenitors 2
+muscle progenitors
+neoblast 8
+muscle progenitors
+pgrn+ parenchymal cells
+neoblast 1
+parenchymal progenitors
+neural progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+otf+ cells 2
+muscle progenitors
+early epidermal progenitors
+pgrn+ parenchymal cells
+early epidermal progenitors
+late epidermal progenitors 1
+muscle progenitors
+parenchymal progenitors
+goblet cells
+late epidermal progenitors 2
+parenchymal progenitors
+early epidermal progenitors
+ChAT neurons 2
+neoblast 1
+phagocytes
+neoblast 1
+muscle body
+muscle pharynx
+early epidermal progenitors
+neural progenitors
+muscle body
+muscle pharynx
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+psd+ cells
+neoblast 1
+neoblast 1
+neoblast 10
+late epidermal progenitors 1
+early epidermal progenitors
+muscle body
+neoblast 1
+muscle body
+neoblast 11
+neoblast 1
+early epidermal progenitors
+late epidermal progenitors 2
+neoblast 6
+ChAT neurons 1
+neoblast 4
+neoblast 1
+late epidermal progenitors 2
+psd+ cells
+muscle progenitors
+neoblast 3
+early epidermal progenitors
+muscle pharynx
+cav-1+ neurons
+early epidermal progenitors
+psap+ parenchymal cells
+late epidermal progenitors 2
+neoblast 1
+pgrn+ parenchymal cells
+muscle body
+early epidermal progenitors
+parenchymal progenitors
+neoblast 3
+cav-1+ neurons
+neoblast 1
+early epidermal progenitors
+neoblast 10
+ldlrr-1+ parenchymal cells
+neural progenitors
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 5
+neoblast 13
+neural progenitors
+neoblast 1
+epidermis
+early epidermal progenitors
+neoblast 10
+muscle body
+muscle body
+pgrn+ parenchymal cells
+epidermis DVb neoblast
+neoblast 1
+neoblast 5
+muscle body
+pigment
+neoblast 1
+cav-1+ neurons
+parenchymal progenitors
+neoblast 6
+parenchymal progenitors
+neoblast 1
+neoblast 6
+neural progenitors
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+early epidermal progenitors
+neoblast 6
+psap+ parenchymal cells
+cav-1+ neurons
+glia
+pgrn+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle pharynx
+psap+ parenchymal cells
+early epidermal progenitors
+epidermal neoblasts
+neoblast 1
+neoblast 13
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+neoblast 1
+late epidermal progenitors 1
+early epidermal progenitors
+gut progenitors
+late epidermal progenitors 1
+psd+ cells
+early epidermal progenitors
+neoblast 6
+pgrn+ parenchymal cells
+muscle progenitors
+late epidermal progenitors 2
+neoblast 1
+secretory 4
+neoblast 1
+pharynx cell type progenitors
+neoblast 1
+late epidermal progenitors 2
+ldlrr-1+ parenchymal cells
+ChAT neurons 2
+early epidermal progenitors
+neoblast 5
+neoblast 1
+neoblast 1
+psd+ cells
+neoblast 10
+epidermis DVb
+neoblast 1
+GABA neurons
+neoblast 1
+muscle pharynx
+early epidermal progenitors
+muscle progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+gut progenitors
+ChAT neurons 1
+neoblast 1
+neoblast 1
+otf+ cells 1
+secretory 2
+GABA neurons
+neoblast 11
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+epidermal neoblasts
+muscle progenitors
+neoblast 1
+neoblast 1
+muscle body
+muscle progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+pgrn+ parenchymal cells
+psd+ cells
+gut progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+otf+ cells 1
+muscle progenitors
+neoblast 1
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+protonephridia
+phagocytes
+neoblast 1
+ChAT neurons 1
+late epidermal progenitors 2
+ldlrr-1+ parenchymal cells
+goblet cells
+neoblast 1
+neural progenitors
+neoblast 1
+epidermis
+neoblast 1
+early epidermal progenitors
+neoblast 6
+epidermal neoblasts
+neoblast 1
+pigment
+neural progenitors
+epidermal neoblasts
+neoblast 1
+muscle progenitors
+muscle body
+secretory 1
+muscle body
+neoblast 1
+neural progenitors
+parenchymal progenitors
+neoblast 1
+pgrn+ parenchymal cells
+parenchymal progenitors
+ChAT neurons 1
+neoblast 1
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+epidermal neoblasts
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+psd+ cells
+neural progenitors
+neoblast 1
+neoblast 5
+neoblast 5
+gut progenitors
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 11
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neural progenitors
+GABA neurons
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 11
+neoblast 1
+secretory 2
+goblet cells
+neoblast 1
+neoblast 10
+early epidermal progenitors
+psap+ parenchymal cells
+muscle body
+early epidermal progenitors
+psap+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+parenchymal progenitors
+neoblast 1
+late epidermal progenitors 1
+parenchymal progenitors
+cav-1+ neurons
+secretory 2
+secretory 1
+neoblast 1
+muscle progenitors
+neoblast 1
+GABA neurons
+neural progenitors
+early epidermal progenitors
+epidermis DVb neoblast
+aqp+ parenchymal cells
+late epidermal progenitors 1
+muscle body
+neoblast 6
+psd+ cells
+early epidermal progenitors
+muscle progenitors
+early epidermal progenitors
+neural progenitors
+early epidermal progenitors
+muscle body
+GABA neurons
+secretory 2
+neoblast 5
+neoblast 1
+early epidermal progenitors
+neoblast 5
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+muscle body
+GABA neurons
+early epidermal progenitors
+neoblast 1
+late epidermal progenitors 2
+muscle body
+neoblast 1
+muscle body
+muscle body
+ChAT neurons 2
+pigment
+muscle body
+neoblast 1
+psd+ cells
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+pgrn+ parenchymal cells
+epidermis DVb neoblast
+early epidermal progenitors
+neoblast 1
+neoblast 9
+muscle progenitors
+neoblast 1
+ldlrr-1+ parenchymal cells
+late epidermal progenitors 2
+neoblast 1
+pharynx cell type progenitors
+epidermal neoblasts
+psap+ parenchymal cells
+pharynx cell type progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 1
+neoblast 6
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+early epidermal progenitors
+epidermal neoblasts
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+parenchymal progenitors
+neoblast 1
+neural progenitors
+neoblast 1
+muscle progenitors
+late epidermal progenitors 1
+neoblast 1
+neoblast 4
+late epidermal progenitors 1
+pgrn+ parenchymal cells
+muscle progenitors
+muscle progenitors
+late epidermal progenitors 1
+neoblast 1
+neoblast 6
+parenchymal progenitors
+early epidermal progenitors
+otf+ cells 1
+pgrn+ parenchymal cells
+neoblast 1
+muscle body
+late epidermal progenitors 2
+neoblast 4
+neoblast 1
+gut progenitors
+muscle pharynx
+early epidermal progenitors
+early epidermal progenitors
+gut progenitors
+muscle progenitors
+goblet cells
+early epidermal progenitors
+epidermis
+neoblast 6
+muscle progenitors
+neoblast 1
+neoblast 1
+muscle body
+neoblast 6
+neoblast 1
+neoblast 13
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 9
+gut progenitors
+ChAT neurons 2
+early epidermal progenitors
+late epidermal progenitors 1
+epidermis DVb neoblast
+neoblast 7
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle pharynx
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+gut progenitors
+neoblast 1
+otf+ cells 1
+neoblast 1
+neoblast 9
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+pgrn+ parenchymal cells
+pharynx cell type progenitors
+neural progenitors
+neoblast 1
+otf+ cells 2
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+ChAT neurons 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 6
+neoblast 1
+pgrn+ parenchymal cells
+ldlrr-1+ parenchymal cells
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+muscle progenitors
+neoblast 4
+muscle progenitors
+late epidermal progenitors 1
+muscle progenitors
+muscle body
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 1
+ChAT neurons 1
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+pharynx cell type progenitors
+neoblast 1
+psap+ parenchymal cells
+late epidermal progenitors 1
+neoblast 1
+pigment
+muscle progenitors
+aqp+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+muscle body
+muscle body
+pharynx cell type progenitors
+gut progenitors
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 5
+neoblast 1
+muscle progenitors
+ChAT neurons 1
+neoblast 1
+muscle progenitors
+neoblast 3
+neoblast 6
+neoblast 1
+GABA neurons
+neoblast 1
+GABA neurons
+epidermis
+early epidermal progenitors
+ChAT neurons 2
+neural progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 4
+secretory 1
+neoblast 1
+epidermal neoblasts
+early epidermal progenitors
+neural progenitors
+neoblast 1
+neural progenitors
+neoblast 6
+neoblast 6
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 1
+secretory 1
+parenchymal progenitors
+epidermis DVb
+neoblast 1
+phagocytes
+neoblast 6
+GABA neurons
+neoblast 6
+parenchymal progenitors
+secretory 1
+aqp+ parenchymal cells
+ChAT neurons 1
+otf+ cells 2
+muscle body
+neoblast 1
+parenchymal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+parenchymal progenitors
+early epidermal progenitors
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+otf+ cells 2
+otf+ cells 2
+muscle progenitors
+late epidermal progenitors 2
+neural progenitors
+neoblast 1
+neoblast 1
+secretory 3
+neoblast 1
+gut progenitors
+neoblast 1
+secretory 1
+neoblast 1
+neoblast 1
+neoblast 1
+pigment
+neoblast 1
+cav-1+ neurons
+neoblast 1
+neoblast 1
+neoblast 9
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+neoblast 11
+late epidermal progenitors 2
+neoblast 5
+neoblast 1
+neural progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 10
+pgrn+ parenchymal cells
+glia
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle body
+pgrn+ parenchymal cells
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+epidermis
+muscle body
+neoblast 1
+secretory 1
+ChAT neurons 1
+early epidermal progenitors
+epidermis
+neoblast 1
+epidermis
+parenchymal progenitors
+neoblast 9
+gut progenitors
+early epidermal progenitors
+muscle body
+late epidermal progenitors 1
+early epidermal progenitors
+GABA neurons
+neural progenitors
+pigment
+neoblast 1
+pigment
+neoblast 1
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 1
+epidermis DVb neoblast
+muscle body
+secretory 3
+muscle progenitors
+neoblast 1
+epidermis
+early epidermal progenitors
+early epidermal progenitors
+pigment
+muscle body
+parenchymal progenitors
+gut progenitors
+neoblast 1
+neural progenitors
+neoblast 6
+epidermis DVb neoblast
+neoblast 1
+neoblast 1
+GABA neurons
+early epidermal progenitors
+psap+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+otf+ cells 1
+pigment
+late epidermal progenitors 1
+pharynx cell type
+late epidermal progenitors 1
+epidermal neoblasts
+neoblast 1
+parenchymal progenitors
+ldlrr-1+ parenchymal cells
+neoblast 1
+epidermis DVb neoblast
+neoblast 1
+muscle progenitors
+secretory 4
+neoblast 1
+muscle body
+neoblast 1
+neoblast 5
+epidermis
+gut progenitors
+muscle progenitors
+muscle progenitors
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+epidermis DVb
+psap+ parenchymal cells
+cav-1+ neurons
+early epidermal progenitors
+psap+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+muscle body
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+gut progenitors
+secretory 2
+muscle body
+gut progenitors
+early epidermal progenitors
+neoblast 13
+neoblast 1
+muscle body
+neoblast 1
+parenchymal progenitors
+neoblast 1
+muscle pharynx
+early epidermal progenitors
+neural progenitors
+early epidermal progenitors
+muscle progenitors
+parenchymal progenitors
+epidermal neoblasts
+psap+ parenchymal cells
+neoblast 1
+neural progenitors
+pigment
+cav-1+ neurons
+neoblast 6
+muscle progenitors
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+neoblast 11
+neoblast 1
+parenchymal progenitors
+pigment
+otf+ cells 2
+ChAT neurons 1
+epidermis
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+late epidermal progenitors 1
+spp-11+ neurons
+neoblast 9
+parenchymal progenitors
+neoblast 11
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+phagocytes
+early epidermal progenitors
+neoblast 9
+epidermis
+ChAT neurons 2
+spp-11+ neurons
+early epidermal progenitors
+neoblast 1
+neoblast 1
+parenchymal progenitors
+muscle progenitors
+protonephridia
+GABA neurons
+neoblast 11
+neoblast 1
+neoblast 1
+neoblast 4
+neural progenitors
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+neoblast 9
+late epidermal progenitors 1
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 6
+neoblast 1
+neoblast 1
+goblet cells
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+early epidermal progenitors
+muscle body
+aqp+ parenchymal cells
+muscle body
+neoblast 1
+neoblast 6
+neoblast 1
+neoblast 5
+muscle progenitors
+epidermal neoblasts
+neoblast 1
+neoblast 1
+early epidermal progenitors
+late epidermal progenitors 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+GABA neurons
+neoblast 1
+late epidermal progenitors 1
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+muscle progenitors
+neoblast 1
+neural progenitors
+muscle body
+neural progenitors
+neural progenitors
+psd+ cells
+neoblast 1
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+early epidermal progenitors
+muscle progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+psap+ parenchymal cells
+parenchymal progenitors
+neural progenitors
+muscle progenitors
+neoblast 1
+pigment
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+cav-1+ neurons
+neoblast 4
+neoblast 1
+early epidermal progenitors
+epidermis
+ChAT neurons 1
+early epidermal progenitors
+pigment
+neoblast 1
+epidermis DVb neoblast
+early epidermal progenitors
+neoblast 5
+epidermis DVb neoblast
+psap+ parenchymal cells
+muscle body
+muscle progenitors
+early epidermal progenitors
+parenchymal progenitors
+early epidermal progenitors
+muscle body
+neoblast 10
+early epidermal progenitors
+muscle progenitors
+ChAT neurons 1
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+neoblast 5
+secretory 4
+muscle pharynx
+early epidermal progenitors
+phagocytes
+neoblast 1
+neoblast 1
+neoblast 1
+GABA neurons
+neoblast 6
+epidermis DVb neoblast
+muscle progenitors
+ChAT neurons 2
+aqp+ parenchymal cells
+neoblast 1
+muscle pharynx
+parenchymal progenitors
+neoblast 4
+epidermal neoblasts
+neoblast 1
+epidermal neoblasts
+early epidermal progenitors
+muscle progenitors
+parenchymal progenitors
+neural progenitors
+psd+ cells
+early epidermal progenitors
+muscle body
+late epidermal progenitors 1
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+psap+ parenchymal cells
+psap+ parenchymal cells
+late epidermal progenitors 2
+neoblast 1
+muscle body
+muscle body
+muscle body
+psap+ parenchymal cells
+cav-1+ neurons
+neoblast 1
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+muscle progenitors
+pharynx cell type
+neoblast 1
+psap+ parenchymal cells
+muscle body
+neoblast 1
+late epidermal progenitors 2
+psap+ parenchymal cells
+muscle body
+neoblast 1
+epidermal neoblasts
+neoblast 1
+muscle pharynx
+early epidermal progenitors
+secretory 4
+neoblast 1
+ldlrr-1+ parenchymal cells
+neoblast 5
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 6
+neoblast 1
+neoblast 1
+neoblast 4
+cav-1+ neurons
+pgrn+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+ChAT neurons 1
+neoblast 1
+pharynx cell type progenitors
+GABA neurons
+otf+ cells 1
+neoblast 1
+neoblast 1
+neoblast 1
+GABA neurons
+early epidermal progenitors
+neoblast 5
+early epidermal progenitors
+muscle pharynx
+phagocytes
+neoblast 1
+psap+ parenchymal cells
+neural progenitors
+late epidermal progenitors 2
+neoblast 1
+muscle body
+neoblast 1
+neural progenitors
+neural progenitors
+muscle progenitors
+protonephridia
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+parenchymal progenitors
+gut progenitors
+epidermis
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle progenitors
+ChAT neurons 2
+neoblast 1
+neoblast 13
+neoblast 1
+pharynx cell type
+neoblast 9
+neural progenitors
+neural progenitors
+early epidermal progenitors
+neural progenitors
+phagocytes
+neoblast 1
+neoblast 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+ChAT neurons 2
+muscle progenitors
+phagocytes
+epidermal neoblasts
+ChAT neurons 1
+parenchymal progenitors
+muscle progenitors
+neoblast 1
+muscle pharynx
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+gut progenitors
+epidermis
+parenchymal progenitors
+neoblast 1
+neoblast 5
+pigment
+epidermis
+neoblast 1
+neoblast 7
+epidermis
+neoblast 1
+muscle body
+neoblast 1
+neoblast 1
+epidermal neoblasts
+early epidermal progenitors
+early epidermal progenitors
+ChAT neurons 2
+pigment
+ChAT neurons 1
+muscle progenitors
+muscle pharynx
+neoblast 6
+neural progenitors
+pigment
+gut progenitors
+psd+ cells
+neoblast 1
+early epidermal progenitors
+muscle body
+neoblast 5
+psap+ parenchymal cells
+neoblast 1
+pgrn+ parenchymal cells
+pigment
+late epidermal progenitors 1
+muscle body
+muscle pharynx
+late epidermal progenitors 1
+neoblast 1
+secretory 1
+GABA neurons
+secretory 1
+neoblast 11
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neoblast 5
+parenchymal progenitors
+gut progenitors
+early epidermal progenitors
+gut progenitors
+neoblast 1
+ChAT neurons 2
+parenchymal progenitors
+neoblast 1
+early epidermal progenitors
+neural progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 4
+epidermis DVb neoblast
+phagocytes
+parenchymal progenitors
+ChAT neurons 1
+ldlrr-1+ parenchymal cells
+aqp+ parenchymal cells
+early epidermal progenitors
+late epidermal progenitors 1
+muscle body
+neoblast 1
+gut progenitors
+muscle body
+GABA neurons
+neoblast 1
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 1
+psd+ cells
+muscle body
+neoblast 1
+muscle progenitors
+neoblast 1
+psd+ cells
+secretory 1
+muscle progenitors
+epidermis
+psap+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+neural progenitors
+secretory 1
+neoblast 1
+neoblast 1
+neoblast 6
+ChAT neurons 1
+neoblast 1
+late epidermal progenitors 2
+ChAT neurons 1
+otf+ cells 1
+muscle progenitors
+neoblast 1
+psd+ cells
+neural progenitors
+epidermis
+secretory 1
+neoblast 1
+neoblast 1
+neoblast 1
+phagocytes
+otf+ cells 2
+early epidermal progenitors
+muscle body
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+muscle progenitors
+neural progenitors
+neoblast 1
+epidermis
+neural progenitors
+muscle body
+early epidermal progenitors
+pigment
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+muscle body
+psap+ parenchymal cells
+phagocytes
+neoblast 1
+parenchymal progenitors
+epidermis
+early epidermal progenitors
+neoblast 1
+aqp+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+epidermal neoblasts
+ldlrr-1+ parenchymal cells
+muscle body
+pgrn+ parenchymal cells
+muscle pharynx
+neoblast 1
+ChAT neurons 2
+early epidermal progenitors
+neural progenitors
+early epidermal progenitors
+ldlrr-1+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+epidermis DVb neoblast
+ChAT neurons 2
+activated early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle body
+secretory 1
+neoblast 1
+muscle progenitors
+neoblast 1
+muscle progenitors
+neoblast 1
+neoblast 1
+neural progenitors
+pgrn+ parenchymal cells
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+psap+ parenchymal cells
+neoblast 8
+ChAT neurons 1
+parenchymal progenitors
+neoblast 1
+ChAT neurons 1
+early epidermal progenitors
+neural progenitors
+late epidermal progenitors 1
+neoblast 1
+early epidermal progenitors
+neoblast 6
+muscle progenitors
+neoblast 1
+parenchymal progenitors
+neural progenitors
+neoblast 1
+late epidermal progenitors 1
+neoblast 1
+epidermis DVb neoblast
+secretory 2
+neoblast 1
+muscle progenitors
+neoblast 9
+late epidermal progenitors 1
+secretory 1
+muscle pharynx
+neoblast 1
+pgrn+ parenchymal cells
+pharynx cell type progenitors
+aqp+ parenchymal cells
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+secretory 3
+cav-1+ neurons
+late epidermal progenitors 1
+early epidermal progenitors
+parenchymal progenitors
+early epidermal progenitors
+neoblast 4
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle body
+early epidermal progenitors
+ChAT neurons 1
+secretory 3
+secretory 4
+neoblast 1
+muscle progenitors
+neoblast 1
+spp-11+ neurons
+neoblast 1
+neoblast 9
+early epidermal progenitors
+secretory 4
+npp-18+ neurons
+epidermis
+GABA neurons
+neural progenitors
+neoblast 6
+neoblast 11
+late epidermal progenitors 1
+neoblast 1
+neural progenitors
+ChAT neurons 2
+neoblast 6
+otf+ cells 1
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+early epidermal progenitors
+pigment
+muscle body
+neoblast 6
+psd+ cells
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+psap+ parenchymal cells
+early epidermal progenitors
+neural progenitors
+neoblast 1
+epidermis
+neoblast 6
+early epidermal progenitors
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+neoblast 1
+pigment
+neoblast 5
+secretory 1
+neoblast 5
+neoblast 9
+neural progenitors
+late epidermal progenitors 2
+early epidermal progenitors
+early epidermal progenitors
+muscle progenitors
+neoblast 1
+pharynx cell type progenitors
+neoblast 3
+early epidermal progenitors
+neoblast 10
+neoblast 1
+neoblast 1
+muscle progenitors
+psap+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+secretory 2
+muscle body
+ChAT neurons 1
+neoblast 1
+neoblast 1
+epidermis DVb neoblast
+late epidermal progenitors 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+muscle pharynx
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+early epidermal progenitors
+neural progenitors
+early epidermal progenitors
+epidermal neoblasts
+GABA neurons
+muscle progenitors
+goblet cells
+neoblast 9
+muscle body
+neoblast 1
+neural progenitors
+neoblast 1
+muscle progenitors
+ChAT neurons 1
+late epidermal progenitors 1
+muscle body
+pharynx cell type progenitors
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+GABA neurons
+aqp+ parenchymal cells
+muscle progenitors
+ChAT neurons 1
+epidermis DVb neoblast
+neoblast 1
+pigment
+secretory 4
+neoblast 1
+otf+ cells 2
+early epidermal progenitors
+secretory 4
+phagocytes
+glia
+neoblast 13
+neoblast 11
+pharynx cell type progenitors
+early epidermal progenitors
+neoblast 1
+neural progenitors
+epidermal neoblasts
+neoblast 9
+neoblast 1
+neoblast 1
+muscle progenitors
+neoblast 8
+neoblast 1
+epidermis DVb neoblast
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neoblast 9
+neoblast 1
+neoblast 1
+muscle body
+aqp+ parenchymal cells
+neoblast 1
+epidermis
+muscle body
+neoblast 1
+neoblast 1
+ChAT neurons 2
+muscle body
+neural progenitors
+npp-18+ neurons
+pharynx cell type progenitors
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 12
+muscle body
+early epidermal progenitors
+early epidermal progenitors
+muscle progenitors
+neoblast 6
+neoblast 8
+neoblast 1
+late epidermal progenitors 1
+late epidermal progenitors 2
+neoblast 5
+neoblast 1
+neoblast 1
+neoblast 1
+epidermis
+neural progenitors
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle progenitors
+epidermal neoblasts
+parenchymal progenitors
+muscle body
+early epidermal progenitors
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+early epidermal progenitors
+epidermal neoblasts
+neoblast 1
+neoblast 1
+epidermis
+neural progenitors
+muscle progenitors
+neoblast 1
+pharynx cell type
+muscle body
+neoblast 1
+neoblast 1
+early epidermal progenitors
+otf+ cells 1
+ChAT neurons 2
+neoblast 4
+neoblast 1
+muscle progenitors
+neural progenitors
+protonephridia
+epidermis DVb neoblast
+neoblast 9
+neoblast 12
+neoblast 1
+parenchymal progenitors
+psap+ parenchymal cells
+neoblast 1
+muscle body
+psap+ parenchymal cells
+pgrn+ parenchymal cells
+epidermis DVb
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+parenchymal progenitors
+GABA neurons
+neural progenitors
+neoblast 1
+epidermis DVb
+GABA neurons
+pigment
+ChAT neurons 2
+neoblast 13
+pharynx cell type progenitors
+parenchymal progenitors
+psap+ parenchymal cells
+ChAT neurons 2
+parenchymal progenitors
+otf+ cells 2
+neoblast 1
+muscle body
+neoblast 9
+neoblast 1
+epidermis DVb
+neural progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 5
+ChAT neurons 1
+early epidermal progenitors
+muscle progenitors
+muscle body
+neoblast 1
+neoblast 5
+muscle body
+pharynx cell type progenitors
+neoblast 5
+late epidermal progenitors 1
+parenchymal progenitors
+neoblast 1
+parenchymal progenitors
+muscle progenitors
+early epidermal progenitors
+otf+ cells 1
+ChAT neurons 1
+epidermis
+early epidermal progenitors
+parenchymal progenitors
+pigment
+early epidermal progenitors
+neoblast 9
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+otf+ cells 2
+ChAT neurons 2
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+psap+ parenchymal cells
+ChAT neurons 1
+muscle pharynx
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+parenchymal progenitors
+neoblast 5
+phagocytes
+early epidermal progenitors
+early epidermal progenitors
+psap+ parenchymal cells
+muscle body
+secretory 4
+neoblast 1
+neoblast 1
+ChAT neurons 1
+neural progenitors
+muscle progenitors
+neural progenitors
+early epidermal progenitors
+neoblast 1
+muscle progenitors
+psap+ parenchymal cells
+neoblast 6
+parenchymal progenitors
+early epidermal progenitors
+psap+ parenchymal cells
+pigment
+neural progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+ChAT neurons 1
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+early epidermal progenitors
+muscle pharynx
+neural progenitors
+muscle body
+ChAT neurons 1
+neoblast 1
+ChAT neurons 1
+neoblast 6
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+muscle pharynx
+early epidermal progenitors
+neoblast 3
+pharynx cell type progenitors
+neoblast 10
+neural progenitors
+neoblast 6
+muscle progenitors
+ldlrr-1+ parenchymal cells
+muscle progenitors
+muscle body
+neoblast 8
+muscle progenitors
+early epidermal progenitors
+neoblast 1
+epidermal neoblasts
+neoblast 6
+muscle pharynx
+secretory 1
+ChAT neurons 2
+neural progenitors
+epidermis DVb
+early epidermal progenitors
+neoblast 1
+neoblast 1
+ChAT neurons 1
+early epidermal progenitors
+epidermis
+early epidermal progenitors
+early epidermal progenitors
+ChAT neurons 2
+early epidermal progenitors
+epidermis DVb
+secretory 3
+gut progenitors
+neural progenitors
+neural progenitors
+neoblast 1
+epidermis
+aqp+ parenchymal cells
+neoblast 4
+neoblast 1
+GABA neurons
+neural progenitors
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+GABA neurons
+neoblast 5
+neoblast 1
+pgrn+ parenchymal cells
+psap+ parenchymal cells
+gut progenitors
+aqp+ parenchymal cells
+muscle progenitors
+neoblast 1
+ChAT neurons 2
+early epidermal progenitors
+early epidermal progenitors
+secretory 2
+neoblast 1
+GABA neurons
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+psd+ cells
+psap+ parenchymal cells
+neoblast 1
+cav-1+ neurons
+neoblast 1
+late epidermal progenitors 1
+parenchymal progenitors
+muscle body
+psd+ cells
+neoblast 5
+early epidermal progenitors
+gut progenitors
+neoblast 1
+early epidermal progenitors
+muscle body
+early epidermal progenitors
+parenchymal progenitors
+ChAT neurons 2
+neural progenitors
+muscle progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+muscle body
+gut progenitors
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+secretory 1
+neoblast 1
+neoblast 5
+neoblast 1
+neoblast 1
+epidermis DVb
+parenchymal progenitors
+neural progenitors
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+muscle body
+epidermal neoblasts
+psap+ parenchymal cells
+muscle body
+psap+ parenchymal cells
+psap+ parenchymal cells
+npp-18+ neurons
+psap+ parenchymal cells
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+muscle body
+parenchymal progenitors
+late epidermal progenitors 1
+neoblast 6
+neoblast 6
+neoblast 1
+neoblast 1
+neoblast 1
+epidermis DVb neoblast
+neoblast 1
+neoblast 11
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+epidermis
+neoblast 1
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+early epidermal progenitors
+epidermis DVb neoblast
+neural progenitors
+muscle progenitors
+neoblast 1
+gut progenitors
+early epidermal progenitors
+early epidermal progenitors
+secretory 4
+epidermal neoblasts
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle progenitors
+muscle body
+ChAT neurons 1
+epidermal neoblasts
+late epidermal progenitors 2
+epidermis DVb neoblast
+muscle body
+neoblast 1
+epidermal neoblasts
+muscle progenitors
+pharynx cell type progenitors
+muscle pharynx
+psap+ parenchymal cells
+secretory 2
+early epidermal progenitors
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+neoblast 1
+muscle body
+muscle body
+phagocytes
+neoblast 1
+neoblast 1
+GABA neurons
+phagocytes
+muscle progenitors
+muscle body
+muscle body
+neoblast 1
+neoblast 1
+ldlrr-1+ parenchymal cells
+psd+ cells
+neoblast 10
+ChAT neurons 1
+neoblast 1
+neoblast 9
+early epidermal progenitors
+late epidermal progenitors 2
+neoblast 1
+late epidermal progenitors 1
+neoblast 11
+ChAT neurons 1
+neoblast 1
+neoblast 5
+muscle pharynx
+protonephridia
+muscle body
+neoblast 1
+psap+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+neoblast 3
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+otf+ cells 2
+GABA neurons
+neoblast 1
+GABA neurons
+phagocytes
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 10
+parenchymal progenitors
+otf+ cells 2
+gut progenitors
+neoblast 1
+neoblast 5
+neoblast 1
+epidermal neoblasts
+late epidermal progenitors 1
+muscle progenitors
+neoblast 1
+otf+ cells 2
+muscle progenitors
+late epidermal progenitors 1
+neoblast 6
+muscle body
+neoblast 1
+cav-1+ neurons
+early epidermal progenitors
+pigment
+secretory 4
+muscle body
+neoblast 1
+gut progenitors
+early epidermal progenitors
+ChAT neurons 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 13
+neoblast 1
+early epidermal progenitors
+neural progenitors
+late epidermal progenitors 1
+neoblast 1
+early epidermal progenitors
+aqp+ parenchymal cells
+early epidermal progenitors
+ChAT neurons 2
+neoblast 1
+npp-18+ neurons
+neoblast 3
+npp-18+ neurons
+late epidermal progenitors 2
+muscle progenitors
+pigment
+neoblast 5
+early epidermal progenitors
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 3
+neoblast 1
+aqp+ parenchymal cells
+neoblast 1
+neoblast 11
+gut progenitors
+neoblast 1
+neoblast 1
+neoblast 6
+psap+ parenchymal cells
+neoblast 1
+ChAT neurons 1
+neoblast 13
+neoblast 1
+neoblast 1
+early epidermal progenitors
+epidermal neoblasts
+early epidermal progenitors
+early epidermal progenitors
+early epidermal progenitors
+muscle body
+neoblast 1
+neoblast 6
+late epidermal progenitors 1
+early epidermal progenitors
+neoblast 1
+gut progenitors
+muscle progenitors
+neoblast 1
+secretory 4
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+late epidermal progenitors 2
+phagocytes
+early epidermal progenitors
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+muscle pharynx
+muscle body
+muscle body
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+pigment
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 1
+ChAT neurons 1
+neoblast 3
+neoblast 1
+aqp+ parenchymal cells
+early epidermal progenitors
+neoblast 13
+epidermis
+neoblast 1
+neoblast 3
+neoblast 1
+neural progenitors
+late epidermal progenitors 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+muscle progenitors
+ChAT neurons 1
+parenchymal progenitors
+otf+ cells 1
+muscle progenitors
+GABA neurons
+neoblast 1
+neoblast 1
+neoblast 9
+early epidermal progenitors
+neoblast 1
+neoblast 1
+parenchymal progenitors
+neural progenitors
+early epidermal progenitors
+neoblast 5
+early epidermal progenitors
+secretory 4
+early epidermal progenitors
+neoblast 1
+neoblast 1
+parenchymal progenitors
+epidermis DVb neoblast
+early epidermal progenitors
+neoblast 3
+early epidermal progenitors
+neural progenitors
+muscle body
+ldlrr-1+ parenchymal cells
+ChAT neurons 1
+muscle body
+parenchymal progenitors
+psap+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+goblet cells
+neural progenitors
+neural progenitors
+neoblast 1
+pharynx cell type progenitors
+neoblast 11
+neoblast 1
+pharynx cell type progenitors
+neural progenitors
+parenchymal progenitors
+neoblast 1
+neoblast 1
+muscle body
+neural progenitors
+ChAT neurons 2
+gut progenitors
+epidermis
+neoblast 13
+neoblast 1
+neoblast 10
+pharynx cell type progenitors
+early epidermal progenitors
+early epidermal progenitors
+pgrn+ parenchymal cells
+neoblast 5
+neoblast 1
+activated early epidermal progenitors
+neural progenitors
+GABA neurons
+neoblast 1
+early epidermal progenitors
+neural progenitors
+late epidermal progenitors 1
+muscle body
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+npp-18+ neurons
+neoblast 1
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+pigment
+neoblast 1
+neoblast 1
+neoblast 1
+parenchymal progenitors
+early epidermal progenitors
+early epidermal progenitors
+psap+ parenchymal cells
+secretory 2
+neoblast 1
+pharynx cell type
+neoblast 1
+pharynx cell type progenitors
+neoblast 9
+early epidermal progenitors
+neoblast 1
+neoblast 1
+ChAT neurons 1
+neoblast 1
+GABA neurons
+early epidermal progenitors
+muscle body
+parenchymal progenitors
+secretory 4
+psap+ parenchymal cells
+gut progenitors
+early epidermal progenitors
+aqp+ parenchymal cells
+neoblast 1
+muscle body
+epidermis DVb neoblast
+neoblast 5
+early epidermal progenitors
+neural progenitors
+parenchymal progenitors
+neoblast 1
+ChAT neurons 1
+ChAT neurons 2
+psap+ parenchymal cells
+GABA neurons
+neoblast 1
+neoblast 1
+late epidermal progenitors 2
+neoblast 1
+late epidermal progenitors 1
+late epidermal progenitors 1
+neoblast 1
+parenchymal progenitors
+early epidermal progenitors
+neoblast 5
+late epidermal progenitors 2
+early epidermal progenitors
+neoblast 9
+early epidermal progenitors
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 6
+otf+ cells 1
+neoblast 1
+ChAT neurons 2
+neoblast 1
+cav-1+ neurons
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+late epidermal progenitors 1
+secretory 4
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+neoblast 1
+pharynx cell type progenitors
+neoblast 13
+muscle body
+neural progenitors
+gut progenitors
+early epidermal progenitors
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 5
+glia
+npp-18+ neurons
+late epidermal progenitors 1
+early epidermal progenitors
+psap+ parenchymal cells
+pigment
+neoblast 1
+early epidermal progenitors
+neural progenitors
+neural progenitors
+neoblast 1
+muscle body
+epidermis DVb neoblast
+aqp+ parenchymal cells
+neoblast 1
+muscle progenitors
+neoblast 9
+neoblast 1
+neoblast 1
+muscle pharynx
+early epidermal progenitors
+neoblast 12
+neoblast 1
+parenchymal progenitors
+muscle progenitors
+neoblast 11
+neoblast 1
+gut progenitors
+parenchymal progenitors
+neoblast 1
+neoblast 1
+neoblast 1
+glia
+gut progenitors
+ChAT neurons 2
+neural progenitors
+neoblast 12
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+pgrn+ parenchymal cells
+pgrn+ parenchymal cells
+neoblast 1
+phagocytes
+muscle progenitors
+neoblast 1
+neoblast 5
+aqp+ parenchymal cells
+neoblast 1
+neoblast 1
+late epidermal progenitors 1
+epidermis
+pharynx cell type progenitors
+neoblast 1
+muscle body
+phagocytes
+neoblast 6
+ldlrr-1+ parenchymal cells
+gut progenitors
+pgrn+ parenchymal cells
+neoblast 1
+muscle body
+neoblast 6
+muscle body
+parenchymal progenitors
+early epidermal progenitors
+secretory 4
+secretory 2
+epidermis DVb neoblast
+neoblast 1
+early epidermal progenitors
+ChAT neurons 1
+ChAT neurons 1
+aqp+ parenchymal cells
+neoblast 13
+late epidermal progenitors 1
+epidermal neoblasts
+neoblast 1
+epidermis DVb neoblast
+neoblast 1
+muscle progenitors
+late epidermal progenitors 1
+neoblast 1
+early epidermal progenitors
+parenchymal progenitors
+muscle progenitors
+neoblast 1
+psap+ parenchymal cells
+neural progenitors
+muscle body
+parenchymal progenitors
+neoblast 1
+neoblast 9
+muscle progenitors
+late epidermal progenitors 2
+neoblast 5
+neoblast 11
+epidermis DVb neoblast
+neoblast 5
+pgrn+ parenchymal cells
+psap+ parenchymal cells
+early epidermal progenitors
+early epidermal progenitors
+neoblast 9
+pgrn+ parenchymal cells
+neoblast 1
+ChAT neurons 1
+neoblast 1
+parenchymal progenitors
+late epidermal progenitors 2
+neoblast 13
+neoblast 1
+epidermis
+early epidermal progenitors
+muscle progenitors
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle body
+neoblast 6
+gut progenitors
+parenchymal progenitors
+neural progenitors
+early epidermal progenitors
+neoblast 6
+early epidermal progenitors
+npp-18+ neurons
+neoblast 1
+neural progenitors
+late epidermal progenitors 2
+neoblast 1
+neoblast 5
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+parenchymal progenitors
+neoblast 1
+early epidermal progenitors
+muscle body
+early epidermal progenitors
+neoblast 13
+psd+ cells
+pigment
+pigment
+neoblast 1
+secretory 1
+pgrn+ parenchymal cells
+neural progenitors
+neoblast 1
+muscle pharynx
+neoblast 5
+neoblast 1
+late epidermal progenitors 2
+early epidermal progenitors
+neural progenitors
+pgrn+ parenchymal cells
+pharynx cell type progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+neoblast 6
+neoblast 1
+ChAT neurons 2
+gut progenitors
+neoblast 1
+neoblast 13
+neoblast 1
+neoblast 1
+neoblast 1
+ChAT neurons 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+phagocytes
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+ChAT neurons 1
+otf+ cells 2
+epidermis DVb neoblast
+early epidermal progenitors
+neoblast 1
+neoblast 1
+muscle body
+parenchymal progenitors
+aqp+ parenchymal cells
+neoblast 5
+gut progenitors
+neoblast 1
+early epidermal progenitors
+pigment
+neoblast 1
+muscle body
+neural progenitors
+neoblast 1
+neoblast 1
+neoblast 6
+early epidermal progenitors
+early epidermal progenitors
+muscle body
+early epidermal progenitors
+neural progenitors
+neoblast 6
+neoblast 12
+muscle body
+neoblast 1
+neoblast 1
+epidermis
+parenchymal progenitors
+aqp+ parenchymal cells
+neoblast 1
+GABA neurons
+phagocytes
+neural progenitors
+neural progenitors
+aqp+ parenchymal cells
+neoblast 11
+neoblast 1
+secretory 1
+psap+ parenchymal cells
+pharynx cell type progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 9
+neoblast 1
+muscle progenitors
+otf+ cells 1
+early epidermal progenitors
+neoblast 1
+muscle pharynx
+neoblast 1
+neoblast 1
+neoblast 1
+epidermis DVb neoblast
+neoblast 1
+neoblast 5
+early epidermal progenitors
+neoblast 1
+muscle body
+neural progenitors
+neoblast 1
+ChAT neurons 2
+neoblast 1
+muscle progenitors
+neoblast 13
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+early epidermal progenitors
+epidermal neoblasts
+early epidermal progenitors
+late epidermal progenitors 1
+neoblast 1
+neural progenitors
+neoblast 1
+neoblast 6
+neoblast 1
+late epidermal progenitors 2
+early epidermal progenitors
+secretory 3
+ChAT neurons 1
+epidermis DVb neoblast
+otf+ cells 1
+neoblast 1
+neoblast 6
+neural progenitors
+epidermal neoblasts
+early epidermal progenitors
+pigment
+pgrn+ parenchymal cells
+neoblast 1
+neoblast 1
+muscle body
+pharynx cell type progenitors
+epidermal neoblasts
+neoblast 1
+epidermal neoblasts
+epidermal neoblasts
+muscle progenitors
+epidermis DVb neoblast
+ChAT neurons 1
+neoblast 1
+neoblast 1
+epidermis
+muscle body
+neoblast 1
+muscle body
+neoblast 1
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+goblet cells
+neoblast 13
+neoblast 1
+neoblast 1
+pgrn+ parenchymal cells
+muscle body
+muscle pharynx
+neoblast 1
+neoblast 1
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+neoblast 4
+muscle body
+epidermal neoblasts
+protonephridia
+early epidermal progenitors
+epidermis
+neoblast 1
+neoblast 1
+neoblast 6
+neoblast 10
+ChAT neurons 2
+neoblast 1
+neoblast 1
+epidermis
+neoblast 1
+neural progenitors
+neoblast 1
+neural progenitors
+pigment
+early epidermal progenitors
+neoblast 1
+late epidermal progenitors 2
+ChAT neurons 2
+neoblast 1
+neoblast 1
+ChAT neurons 1
+psap+ parenchymal cells
+neoblast 1
+epidermal neoblasts
+late epidermal progenitors 1
+neoblast 1
+phagocytes
+muscle progenitors
+neoblast 1
+early epidermal progenitors
+psap+ parenchymal cells
+neoblast 1
+neoblast 1
+pigment
+neural progenitors
+secretory 4
+pgrn+ parenchymal cells
+muscle body
+late epidermal progenitors 1
+early epidermal progenitors
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+aqp+ parenchymal cells
+neoblast 9
+early epidermal progenitors
+otf+ cells 1
+otf+ cells 1
+muscle body
+neural progenitors
+neoblast 10
+neoblast 1
+neoblast 1
+neoblast 1
+neural progenitors
+neoblast 1
+neural progenitors
+muscle pharynx
+aqp+ parenchymal cells
+early epidermal progenitors
+muscle body
+neoblast 1
+early epidermal progenitors
+parenchymal progenitors
+neoblast 1
+neural progenitors
+neoblast 1
+aqp+ parenchymal cells
+neoblast 13
+epidermis DVb neoblast
+neoblast 1
+muscle body
+muscle progenitors
+GABA neurons
+neural progenitors
+pgrn+ parenchymal cells
+late epidermal progenitors 2
+ChAT neurons 2
+muscle body
+epidermal neoblasts
+muscle pharynx
+early epidermal progenitors
+late epidermal progenitors 1
+muscle body
+epidermis DVb neoblast
+neoblast 1
+ChAT neurons 1
+muscle body
+neoblast 1
+neoblast 9
+neoblast 6
+epidermis DVb neoblast
+pgrn+ parenchymal cells
+early epidermal progenitors
+neoblast 1
+epidermal neoblasts
+neoblast 1
+early epidermal progenitors
+ldlrr-1+ parenchymal cells
+early epidermal progenitors
+secretory 1
+secretory 4
+neoblast 1
+muscle body
+epidermis
+neoblast 1
+neoblast 1
+muscle body
+neoblast 1
+neoblast 1
+aqp+ parenchymal cells
+neural progenitors
+muscle body
+pharynx cell type
+psap+ parenchymal cells
+muscle body
+neoblast 1
+parenchymal progenitors
+neoblast 6
+early epidermal progenitors
+neoblast 1
+late epidermal progenitors 1
+parenchymal progenitors
+neural progenitors
+epidermis
+pigment
+neoblast 1
+muscle body
+muscle progenitors
+neoblast 1
+neoblast 1
+early epidermal progenitors
+epidermis DVb neoblast
+pharynx cell type progenitors
+early epidermal progenitors
+late epidermal progenitors 1
+neoblast 6
+neoblast 1
+muscle body
+ChAT neurons 1
+neoblast 1
+muscle body
+neoblast 1
+epidermis DVb neoblast
+late epidermal progenitors 1
+neoblast 3
+early epidermal progenitors
+neoblast 6
+muscle progenitors
+epidermis
+early epidermal progenitors
+muscle body
+late epidermal progenitors 2
+ChAT neurons 1
+ChAT neurons 1
+aqp+ parenchymal cells
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+early epidermal progenitors
+neoblast 1
+activated early epidermal progenitors
+neoblast 1
+neural progenitors
+neoblast 13
+neural progenitors
+muscle body
+epidermis DVb neoblast
+neoblast 13
+pigment
+ChAT neurons 2
+neoblast 1
+neoblast 1
+secretory 4
+neoblast 1
+muscle progenitors
+late epidermal progenitors 2
+muscle body
+ChAT neurons 2
+gut progenitors
+neoblast 1
+neoblast 6
+neoblast 1
+muscle body
+neoblast 1
+epidermis DVb neoblast
+muscle body
+secretory 4
+neoblast 1
+muscle body
+pigment
+neoblast 1
+epidermis DVb neoblast
+psd+ cells
+neoblast 1
+muscle progenitors
+early epidermal progenitors
+cav-1+ neurons
+neural progenitors
+early epidermal progenitors
+early epidermal progenitors
+epidermis DVb neoblast
+neoblast 1
+neoblast 1
+neoblast 1
+otf+ cells 1
+neoblast 1
+neoblast 1
+pigment
+secretory 2
+early epidermal progenitors
+neoblast 1
+ChAT neurons 2
+phagocytes
+late epidermal progenitors 2
+neoblast 1
+protonephridia
+pgrn+ parenchymal cells
+early epidermal progenitors
+pharynx cell type progenitors
+muscle body
+neural progenitors
+neoblast 11
+parenchymal progenitors
+pgrn+ parenchymal cells
+aqp+ parenchymal cells
+neoblast 1
+neural progenitors
+gut progenitors
+neural progenitors
+parenchymal progenitors
+gut progenitors
+neoblast 10
+neoblast 1
+neoblast 1
+secretory 4
+pharynx cell type progenitors
+neoblast 1
+muscle body
+ldlrr-1+ parenchymal cells
+neural progenitors
+neoblast 1
+early epidermal progenitors
+late epidermal progenitors 1
+neoblast 1
+ChAT neurons 1
+secretory 2
+neoblast 1
+neoblast 1
+muscle body
+ChAT neurons 1
+neoblast 3
+epidermis DVb neoblast
+late epidermal progenitors 1
+otf+ cells 2
+early epidermal progenitors
+neoblast 1
+neoblast 5
+neoblast 1
+ChAT neurons 2
+neural progenitors
+neoblast 1
+neoblast 1
+activated early epidermal progenitors
+muscle body
+pigment
+neoblast 1
+muscle progenitors
+neoblast 1
+parenchymal progenitors
+neural progenitors
+aqp+ parenchymal cells
+neoblast 10
+muscle progenitors
+early epidermal progenitors
+muscle body
+gut progenitors
+neoblast 1
+ChAT neurons 1
