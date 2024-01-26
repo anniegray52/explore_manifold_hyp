@@ -1,0 +1,51 @@
+neoblast 1	grey
+neoblast 2	darkgrey
+neoblast 3	#E6E6E6
+neoblast 4	#D6D6D6
+neoblast 5	#C7C7C7
+neoblast 6	#B8B8B8
+neoblast 7	#A8A8A8
+neoblast 8	#999999
+neoblast 9	#8A8A8A
+neoblast 10	#7A7A7A
+neoblast 11	#6B6B6B
+neoblast 12	#5C5C5C
+neoblast 13	#4D4D4D
+epidermis DVb neoblast	lightsteelblue
+pharynx cell type progenitors	slategray
+spp-11+ neurons	#CC4C02
+npp-18+ neurons	#EC7014
+otf+ cells 1	#993404
+ChAT neurons 1	#FEC44F
+neural progenitors	#FFF7BC
+otf+ cells 2	#662506
+cav-1+ neurons	gold
+GABA neurons	#FEE391
+ChAT neurons 2	#FE9929
+muscle body	firebrick
+muscle pharynx	indianred
+muscle progenitors	tomato
+secretory 1	mediumpurple
+secretory 3	purple
+secretory 4	#CBC9E2
+secretory 2	mediumpurple
+early epidermal progenitors	#9ECAE1
+epidermal neoblasts	#C6DBEF
+activated early epidermal progenitors	lightblue
+late epidermal progenitors 2	#4292C6
+late epidermal progenitors 1	#6BAED6
+epidermis DVb	dodgerblue
+epidermis	#2171B5
+pharynx cell type	royalblue
+protonephridia	pink
+ldlrr-1+ parenchymal cells	mediumvioletred
+phagocytes	forestgreen
+aqp+ parenchymal cells	plum
+pigment	palevioletred
+pgrn+ parenchymal cells	mediumorchid
+psap+ parenchymal cells	deeppink
+glia	orchid
+goblet cells	yellow
+parenchymal progenitors	hotpink
+psd+ cells	darkolivegreen
+gut progenitors	limegreen
